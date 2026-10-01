@@ -1,0 +1,21 @@
+[
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "D:/RedPanda-CPP/projects/DelProfils1/src/CommandLine.cpp",
+        "focused": false,
+        "isOpen": false,
+        "left": 0,
+        "top": 0
+    },
+    {
+        "caretX": 1,
+        "caretY": 1,
+        "filename": "D:/RedPanda-CPP/projects/DelProfils1/main.cpp",
+        "focused": true,
+        "isOpen": true,
+        "left": 0,
+        "order": 0,
+        "top": 0
+    }
+]
