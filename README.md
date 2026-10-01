@@ -56,4 +56,4 @@ La validation d’intégration GPO R7 a été réalisée dans une VM sur l’ex�
 
 ## Licence
 
-Licence prévue : MIT. Ajoute le fichier `LICENSE` MIT au dépôt lors de sa création.
+Le projet est distribué sous licence MIT. Voir le fichier [LICENSE](LICENSE).
